@@ -1,0 +1,10 @@
+{
+    "dbConfig": {
+        "host": "ptest108.athenahealth.com",
+        "port": 1521,
+        "sid": "PTEST65",
+        "schema_username": "athena8042",
+        "schema_password": "athena8042"
+    },
+   "homeurl" : "https://prodmirror.athenahealth.com/1/3/login.esp"
+}

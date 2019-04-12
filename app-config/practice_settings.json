@@ -1,0 +1,19 @@
+{
+    "user": {
+        "login_username": "",
+        "login_password": "#"
+    },
+    "faxpagegroup": {
+        "application": [{
+            "practice": "8042",
+            "departmentid": "2430",
+            "categories": [{
+                "category": "ADMIN",
+                "fpgdata": {
+                    "PATIENTDOB": "09/02/1992",
+                    "PATIENTNAME": "ANGERSTEIN MEGAN"
+                }
+            }]
+        }]
+    }
+}

@@ -1,0 +1,12 @@
+module.exports = {
+    USERNAME_SELECTOR: '#USERNAME',
+    PASSWORD_SELECTOR: '#PASSWORD',
+    LOGIN_BUTTON_SELECTOR: '#loginbutton',
+    PRACTICE_SELECTOR: '#PRACTICEFINDTEXT',
+    DEPARTMENT_SELECTOR: '#DEPARTMENTID',
+    CATEGORY_SELECTOR: '#CATEGORY',
+    GEAR_ICON_SELECTOR: '#settingsmenucomponent',
+    DOCUMENT_ICON_SELECTOR: '#documentid',
+    GO_BUTTON_SELECTOR: '#fetchdocument',   
+    MY_FAX_PAGE_GROUP_QUEUE_TEXT: 'My Fax Page Group Queue'
+}
